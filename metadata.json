@@ -1,0 +1,6 @@
+{
+  "name": "MasjidOS",
+  "description": "Aplikasi Manajemen Masjid Pintar Offline (MasjidOS) - Sistem Pengelolaan Keuangan, Jamaah, Ambulans, Jadwal Kegiatan, Laporan, dan Pengaturan DKM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
